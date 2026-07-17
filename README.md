@@ -1,3 +1,3 @@
 # jtcbrule.github.io
 
-TODO
+Redirect to github.com/jtcbrule
